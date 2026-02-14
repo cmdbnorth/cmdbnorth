@@ -1,9 +1,4 @@
-hi its me north
-i am a roblox game dev
-im a new soul
-i came to this strange world 
-[meowl]
-contact me to discuss prices <a href=[ target="_blank](https://discord.com/users/1266562227926863932)">here!</a>
+
 
 <!--
 **cmdbnorth/cmdbnorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
